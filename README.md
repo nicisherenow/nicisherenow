@@ -2,7 +2,7 @@
 
 ## Thanks for stopping by, since you're here:
 
-[![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicisherenow&theme=blue-green)](https://github.com/nicisherenow/github-readme-stats)
+[![Nic's github stats](https://github-readme-stats.vercel.app/api?username=nicisherenow&theme=blue-green)](https://github.com/nicisherenow/)
 
 ### A brief introduction
 I am a full-stack software engineer with a passion for teamwork. I have extensive experience in developing web applications using technologies such as JavaScript, React, Redux, SQL, and Python. My love for coding and desire to create user-friendly and innovative software solutions has driven my career thus far. I am always striving to expand my skill set and increase my skill competency.
