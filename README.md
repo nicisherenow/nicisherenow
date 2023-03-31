@@ -2,7 +2,7 @@
 
 ## Thanks for stopping by, since you're here:
 
-[![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicisherenow)]
+[![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicisherenow&show_icons=true&theme=transparent)](https://www.github.com/nicisherenow)
 
 
 ### A brief introduction
